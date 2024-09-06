@@ -50,11 +50,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    media:
-      type: ImageBlock
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
