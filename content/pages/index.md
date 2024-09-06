@@ -46,7 +46,7 @@ sections:
         label: Learn more
         altText: ''
         url: '/https://streamscharts.com/channels/1cenanossa'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
